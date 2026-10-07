@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F7F5",
+  "secondaryColor": "#EFEFEF",
+  "backgroundColor": "#F8F7F5",
+  "textColor": "#2C2C2C",
+  "accentColor": "#FF6B35",
+  "fontHeading": "Poppins",
+  "fontBody": "Inter",
+  "borderRadius": "0.25rem",
+  "logoText": "QA Build Directo Gastos",
+  "logoImageUrl": null,
+  "tone": "trustworthy"
+}
